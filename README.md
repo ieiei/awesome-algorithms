@@ -40,6 +40,11 @@ a list of awesome algorithms code implement and in practice projects
 - [gods](https://github.com/emirpasic/gods/tree/master/trees/redblacktree) - GoDS (Go Data Structures)
 
 ---
+### B - BTree (B树)
+
+- [mongoDB](https://github.com/mongodb/mongo/blob/master/src/mongo/db/index/btree_key_generator.h) - The MongoDB Database
+
+---
 ### B+ - B+Tree (B+树)
 
 
